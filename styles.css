@@ -1,0 +1,53 @@
+body {
+    background-color: turquoise;
+    font-family: Helvetica;
+    color: #1a1a1a
+}
+
+a:link {
+    color: #1b1bff;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+a:hover {
+    color: orangered;
+    font-weight: bold; 
+}
+
+a:active {
+    color: orangered;
+    font-weight: bolder;
+}
+
+h1 {
+    color: white;
+    text-shadow: 1px 1px #000000;
+}
+
+h3 {
+    color: white;
+    text-shadow: 1px 1px #000000;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
+h6 {
+    color: black;
+    text-shadow: 1px 1px #ffffff;
+    text-decoration: overline;
+}
+
+p {
+    text-align: center;
+}
+
+ul,
+ol {
+    font-style: italic;
+}
+
+.description{
+    text-align:center;
+}
