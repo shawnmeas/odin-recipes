@@ -36,10 +36,10 @@ h3 {
 h6 {
     color: black;
     text-shadow: 1px 1px #ffffff;
-    left: 0px;
-    bottom: 0px;
     text-decoration: overline;
     position:fixed;
+    right: 0px;
+    bottom: 0px;
 }
 
 p {
